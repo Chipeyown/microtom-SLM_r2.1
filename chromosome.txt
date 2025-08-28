@@ -1,0 +1,14 @@
+chr01	NC_090800.1	Solanum lycopersicum chromosome 1, SLM_r2.1
+chr02	NC_090801.1	Solanum lycopersicum chromosome 2, SLM_r2.1
+chr03	NC_090802.1	Solanum lycopersicum chromosome 3, SLM_r2.1
+chr04	NC_090803.1	Solanum lycopersicum chromosome 4, SLM_r2.1
+chr05	NC_090804.1	Solanum lycopersicum chromosome 5, SLM_r2.1
+chr06	NC_090805.1	Solanum lycopersicum chromosome 6, SLM_r2.1
+chr07	NC_090806.1	Solanum lycopersicum chromosome 7, SLM_r2.1
+chr08	NC_090807.1	Solanum lycopersicum chromosome 8, SLM_r2.1
+chr09	NC_090808.1	Solanum lycopersicum chromosome 9, SLM_r2.1
+chr10	NC_090809.1	Solanum lycopersicum chromosome 10, SLM_r2.1
+chr11	NC_090810.1	Solanum lycopersicum chromosome 11, SLM_r2.1
+chr12	NC_090811.1	Solanum lycopersicum chromosome 12, SLM_r2.1
+chrmt	NC_035963.1	Solanum lycopersicum bio-material TGRC:LA1421 mitochondrion, complete genome
+chrcl	NC_007898.3	Solanum lycopersicum chloroplast, complete genome
